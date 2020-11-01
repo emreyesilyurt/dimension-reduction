@@ -10,17 +10,19 @@ With size reduction techniques, we reduce the number of input variables in a dat
 In other words, the main purpose of dimension reduction is to increase the usability of data while reducing the cost to us.
 
 
-
 After performing this process, we are actually looking at the data from a different point. Looking at the data from a different point means that it can be inferred with new qualities.
-Image for post
-visiondummy.com
+
+![alt-text](https://miro.medium.com/max/577/1*TlVYvzPFFpZupHL1VTNChg.png)
 
 We may experience data loss while at the same time extracting new attributes. For example, suppose you are moving from 3D space to 2D space.
-Image for post
-https://www.osgdigitallabs.com/blogs/2018/4/3/dimensionality-reduction
+
+![alt-text](https://miro.medium.com/max/700/1*ZK4Soly4i2x0Z1ijpxuijA.png)
 
 When you examine visually, you will see that data points on the same plane in 3 dimensions disappear when 2 dimensions are reduced.
 
 
 In other words, the PCA algorithm has no guarantee that it will not lose data.
 The basic working principle of PCA is to find the most relevant data points and combine them linearly. That is, the variables that are related to each other are matched and a sequence that can be summarized is created.
+
+
+![alt-text](https://miro.medium.com/max/1000/1*vXQ5sgMF0XmiY4Jc6gJVwA.png)
