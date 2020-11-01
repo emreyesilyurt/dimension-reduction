@@ -5,7 +5,7 @@ The number of entries or features in a data set is the size of that data set.
 
 With size reduction techniques, we reduce the number of input variables in a data set. Excess size also requires a lot of resources, makes visualization difficult, can decrease performance. That's why size reduction is frequently used in machine learning models in many respects.
 
-![alt-text](https://miro.medium.com/max/220/1*-zvCu5BF0W3sAwF39NgPdQ.gif)
+![](https://miro.medium.com/max/220/1*-zvCu5BF0W3sAwF39NgPdQ.gif)
 
 In other words, the main purpose of dimension reduction is to increase the usability of data while reducing the cost to us.
 
