@@ -7,7 +7,11 @@ Today, even a simple IoT sensor produces multidimensional data. First, we encoun
 
 Dimension reduction is looking at the data from a different point of view. It can also be thought of as taking a picture of the data while looking from a different point of view. Looking at the data from a different perspective will lead to new qualities and features.
 
+![](https://miro.medium.com/max/577/1*TlVYvzPFFpZupHL1VTNChg.png)
+
 While introducing new features (Feature extraction), we can also lose some data. For example, let’s examine the following sample data, from 3-dimensional to 2-dimensional extension.
+
+![](https://miro.medium.com/max/700/1*ZK4Soly4i2x0Z1ijpxuijA.png)
 
 When you examine the image, you will see that some data points disappear when the 3-dimensional data set is reduced to 2 dimensions. This is because some overlapping data points cause complexity and disappear when moving to a different space. I must say that Principal Component Analysis (PCA) is not a guarantee of not losing data.
 Principal Component Analysis’s working principle is in its simplest form; Finding the most relevant data points in as many clusters as the number of dimensions to reduce and combining them linearly. It uses eigenvectors and Eigen matrices to perform all these operations.
